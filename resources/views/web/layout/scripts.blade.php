@@ -1,0 +1,16 @@
+<script src="{{asset('public/web/js/jquery.js')}}"></script>
+<script src="{{asset('public/web/js/popper.min.js')}}"></script>
+<script src="{{asset('public/web/js/bootstrap.min.js')}}"></script>
+<script src="{{asset('public/web/js/imagesloaded.pkgd.min.js')}}"></script>
+<script src="{{asset('public/web/js/isotope.pkgd.min.js')}}"></script>
+<script src="{{asset('public/web/js/swiper-bundle.min.js')}}"></script>
+<script src="{{asset('public/web/js/leaflet.js')}}"></script>
+<script src="{{asset('public/web/js/jquery.waypoints.min.js')}}"></script>
+<script src="{{asset('public/web/js/jquery.counterup.min.js')}}"></script>
+<script src="{{asset('public/web/js/aos.js')}}"></script>
+<script src="{{asset('public/web/js/jquery.preloadinator.min.js')}}"></script>
+<script src="{{asset('public/web/js/vanilla-tilt.min.js')}}"></script>
+<script src="{{asset('public/web/js/typer.js')}}"></script>
+<script src="{{asset('public/web/js/magicmouse.js')}}"></script>
+<script src="{{asset('public/web/js/script.js')}}"></script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
